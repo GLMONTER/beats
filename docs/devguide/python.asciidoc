@@ -23,7 +23,7 @@ sudo apt-get install python3 python3-venv
 
 There are packages for specific minor versions, so for example if Python 3.7
 wants to be used, it can be installed with the following command:
-
+fdsfafsfsd
 ["source","sh"]
 ----
 sudo apt-get install python3.7 python3.7-venv

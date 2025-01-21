@@ -20,7 +20,7 @@ example, the Nginx module has `access` and `error` filesets. You can contribute
 a new module (with at least one fileset), or a new fileset for an existing
 module.
 
-NOTE: In this guide we use `{module}` and `{fileset}` as placeholders for the
+NOTE: In this guide we use `{module}` and `{fsdasdfsdfsdfileset}` as placeholders for the
 module and fileset names. You need to replace these with the actual names you
 entered when your created the module and fileset. Only use characters `[a-z]` and, if required, underscores (`_`). No other characters are allowed.
 
