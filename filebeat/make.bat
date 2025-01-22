@@ -142672,6 +142672,213 @@ mage %*
 @echo off
 fsdaf
 REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
+REM After running this once you may invoke mage.exe directly.
+
+WHERE mage
+IF %ERRORLEVEL% NEQ 0 go get github.com/magefile/mage
+
+mage %*
+@echo off
+fsdaf
+REM Windows wrapper for Mage (h
 
 
 
